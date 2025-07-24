@@ -37,4 +37,8 @@ Python has become one of the most popular languages for data analysis due to its
 ✨ Python’s combination of versatility, performance, and a strong community makes it an essential tool for any aspiring Data Analyst.
 
 # Python Basics 
+Topics covered today:
+1. Features
+2. Indentation
+3. Input
 
